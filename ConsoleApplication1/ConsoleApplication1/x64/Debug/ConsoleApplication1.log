@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Ferna\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(48,43): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Ferna\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(49,51): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  ConsoleApplication1.vcxproj -> C:\Users\Ferna\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
